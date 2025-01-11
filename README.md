@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ishan-Kunkur
-Engineer | Creator | Innovator
-Exploring the future of technology through data analytics, AI, and blockchain.
-Passionate about building impactful products and sharing knowledge through engaging content.
-Always learning, always creating.
+- Engineer | Creator | Innovator
+- Exploring the future of technology through data analytics, AI, and blockchain.
+- Passionate about building impactful products and sharing knowledge through engaging content.
+- Always learning, always creating.
 - 📫 How to reach me : ishangvkunkur@gmail.com
 
 <!---
