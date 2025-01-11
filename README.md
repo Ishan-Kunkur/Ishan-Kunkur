@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ishan-Kunkur
-- 👀 I’m interested in data science and its applications. I am also teaching myself software engineering. 
-- 🌱 I’m currently learning Python and Golang
-- 💞️ I’m looking to collaborate on my personal projects
+Engineer | Creator | Innovator
+Exploring the future of technology through data analytics, AI, and blockchain.
+Passionate about building impactful products and sharing knowledge through engaging content.
+Always learning, always creating.
 - 📫 How to reach me : ishangvkunkur@gmail.com
 
 <!---
